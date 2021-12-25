@@ -38,4 +38,5 @@ It does this by starting at a point that has already been deturmined if exists, 
 Resources used:
 
 https://github.com/mxgmn/WaveFunctionCollapse
+
 https://www.youtube.com/watch?v=fnFj3dOKcIQ&t=594s
