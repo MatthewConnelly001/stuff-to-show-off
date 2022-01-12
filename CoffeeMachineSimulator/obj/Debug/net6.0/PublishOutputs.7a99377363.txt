@@ -1,5 +1,0 @@
-C:\Users\MattC\Desktop\CoffeeMachineSimulator\bin\Debug\net6.0\publish\CoffeeMachineSimulator.exe
-C:\Users\MattC\Desktop\CoffeeMachineSimulator\bin\Debug\net6.0\publish\CoffeeMachineSimulator.dll
-C:\Users\MattC\Desktop\CoffeeMachineSimulator\bin\Debug\net6.0\publish\CoffeeMachineSimulator.deps.json
-C:\Users\MattC\Desktop\CoffeeMachineSimulator\bin\Debug\net6.0\publish\CoffeeMachineSimulator.runtimeconfig.json
-C:\Users\MattC\Desktop\CoffeeMachineSimulator\bin\Debug\net6.0\publish\CoffeeMachineSimulator.pdb

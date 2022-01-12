@@ -1,0 +1,15 @@
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\bin\Debug\net6.0\CoffeeMachineSimulator.exe
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\bin\Debug\net6.0\CoffeeMachineSimulator.deps.json
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\bin\Debug\net6.0\CoffeeMachineSimulator.runtimeconfig.json
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\bin\Debug\net6.0\CoffeeMachineSimulator.dll
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\bin\Debug\net6.0\ref\CoffeeMachineSimulator.dll
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\bin\Debug\net6.0\CoffeeMachineSimulator.pdb
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\CoffeeMachineSimulator.csproj.AssemblyReference.cache
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\CoffeeMachineSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\CoffeeMachineSimulator.AssemblyInfoInputs.cache
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\CoffeeMachineSimulator.AssemblyInfo.cs
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\CoffeeMachineSimulator.csproj.CoreCompileInputs.cache
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\CoffeeMachineSimulator.dll
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\ref\CoffeeMachineSimulator.dll
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\CoffeeMachineSimulator.pdb
+C:\Users\MattC\Documents\Dev\CS\CoffeeMachineSimulator\obj\Debug\net6.0\CoffeeMachineSimulator.genruntimeconfig.cache

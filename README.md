@@ -40,3 +40,16 @@ Resources used:
 https://github.com/mxgmn/WaveFunctionCollapse
 
 https://www.youtube.com/watch?v=fnFj3dOKcIQ&t=594s
+
+
+## MVC Demo
+
+An example Console App project I created to explore how the Model-View-Controller software framework works and how to implement it.
+
+This demo defines a basket of fruit to which you can take actions such as to take items from it, or add items to it.
+
+A *model* is used to define the contents of the basket (as a dictionary) and actions that can be taken such as to add or take from the basket. 
+A *View* acts as the user interface, containing only functions to print the results of the user's actions and no logic other than processing the user's input string.
+Lastly a *Controller* acts as the core logic system connecting the view (input) to the model (resulting action). Here, the model will then call upon the view to output the results of the action taken.
+
+![MVC diagram](800px-MVC-Process.svg.png)
