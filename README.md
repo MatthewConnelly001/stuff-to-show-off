@@ -24,8 +24,7 @@ The difference in colour between pellets and the creatures that eat them deturmi
 The AI of creatures is a simple perceptron which is applied on all objects around the creature to deturmine what to travel towards or flee from.
 The weights for the AI and physical characteristics (e.g. movement speed) are all randomly mutated after a creature is born, which is done by mitosis when a creature reaches it's appropriate size.
 
-
-![Evolution Sim gameplay](Evolution Sim/example.png)
+![Evolution Sim gameplay](EvolutionSim/example.png)
 
 ## Planet Defender
 
@@ -34,8 +33,7 @@ The first game using the Godot Engine that I published to Itch.io.
 It is a small survival/tower defence game where you defend a 2D planet from asteroids and UFOs while piloting a small tank on the surface.
 
 
-![Planet Defender gameplay](Planet Defender/PD level 1.png)
-![Planet Defender gameplay](Planet Defender/PD level 36.png)
+![Planet Defender gameplay](PlanetDefender/PDlevel1.png) | ![Planet Defender gameplay](PlanetDefender/PDlevel36.png)
 
 ## Wave Function Collapse Algorithm
 
@@ -47,18 +45,14 @@ I was able to grab a model of this off Github referenced by a great introduction
 * Wave Function Collapse Algorithm GitHub: https://github.com/mxgmn/WaveFunctionCollapse
 * WFC in procedural generation in game dev lecture: https://www.youtube.com/watch?v=fnFj3dOKcIQ&t=594s
 
-![Wave Function Collapse 3Bricks sample](Wave Function Collapse/example samples/3Bricks.png)
-![Wave Function Collapse 3Bricks output](Wave Function Collapse/example outputs/3Bricks.png)
-![Wave Function Collapse rooms sample](Wave Function Collapse/example samples/rooms.png)
-![Wave Function Collapse rooms output](Wave Function Collapse/example outputs/rooms.png)
+![Wave Function Collapse 3Bricks sample](WaveFunctionCollapse/example%20samples/3Bricks.png) | ![Wave Function Collapse 3Bricks output](WaveFunctionCollapse/example%20outputs/3Bricks.png)
 
-
+![Wave Function Collapse rooms sample](WaveFunctionCollapse/example%20samples/rooms.png) | ![Wave Function Collapse rooms output](WaveFunctionCollapse/example%20outputs/rooms.png)
 
 
 I also attempted to recreate this algorithm from scratch in Godot Game Engine. Here are some example images (clearly I have some way to go):
 
-![Wave Function Collapse in Godot](Wave Function Collapse/Godot attempt1.png)
-![Wave Function Collapse in Godot](Wave Function Collapse/Godot attempt2.png)
+![Wave Function Collapse in Godot](WaveFunctionCollapse/Godotattempt.png) | ![Wave Function Collapse in Godot](WaveFunctionCollapse/Godotattempt2.png)
 
 
 ## MVC Demo
