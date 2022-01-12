@@ -10,6 +10,8 @@ A .NET program I created for a coding challenge when applying for a job.
 This is a program runs a menu that allows the user to input their actions (e.g. insert coin, purchase a type of coffee), and prints the resulting action. 
 It accounts for change, user money balance, and stock of coins and coffees in storage.
 
+I created three versions, each with increasing complexity and functionality. Version 3 was the final version I came up with for submission, 
+which contains a single menu, and extra commands for debugging and analysing available stock in the machine.
 
 ## Evolution Sim
 
@@ -23,6 +25,8 @@ The AI of creatures is a simple perceptron which is applied on all objects aroun
 The weights for the AI and physical characteristics (e.g. movement speed) are all randomly mutated after a creature is born, which is done by mitosis when a creature reaches it's appropriate size.
 
 
+![Evolution Sim gameplay](Evolution Sim/example.png)
+
 ## Planet Defender
 
 The first game using the Godot Engine that I published to Itch.io.
@@ -30,16 +34,31 @@ The first game using the Godot Engine that I published to Itch.io.
 It is a small survival/tower defence game where you defend a 2D planet from asteroids and UFOs while piloting a small tank on the surface.
 
 
+![Planet Defender gameplay](Planet Defender/PD level 1.png)
+![Planet Defender gameplay](Planet Defender/PD level 36.png)
+
 ## Wave Function Collapse Algorithm
 
 An interesting concept for an algorithm to create randomly generated content. The algorithm requires a training input, to which it analyses patterns (usually a 3x3 grid) and prints output image that fits this pattern. 
 It does this by starting at a point that has already been deturmined if exists, and permiating all possible neighboring, and does so probabilistically if uncertain.
 
-Resources used:
+I was able to grab a model of this off Github referenced by a great introductionary game development lecture (See below).
 
-https://github.com/mxgmn/WaveFunctionCollapse
+* Wave Function Collapse Algorithm GitHub: https://github.com/mxgmn/WaveFunctionCollapse
+* WFC in procedural generation in game dev lecture: https://www.youtube.com/watch?v=fnFj3dOKcIQ&t=594s
 
-https://www.youtube.com/watch?v=fnFj3dOKcIQ&t=594s
+![Wave Function Collapse 3Bricks sample](Wave Function Collapse/example samples/3Bricks.png)
+![Wave Function Collapse 3Bricks output](Wave Function Collapse/example outputs/3Bricks.png)
+![Wave Function Collapse rooms sample](Wave Function Collapse/example samples/rooms.png)
+![Wave Function Collapse rooms output](Wave Function Collapse/example outputs/rooms.png)
+
+
+
+
+I also attempted to recreate this algorithm from scratch in Godot Game Engine. Here are some example images (clearly I have some way to go):
+
+![Wave Function Collapse in Godot](Wave Function Collapse/Godot attempt1.png)
+![Wave Function Collapse in Godot](Wave Function Collapse/Godot attempt2.png)
 
 
 ## MVC Demo
@@ -52,4 +71,4 @@ A *model* is used to define the contents of the basket (as a dictionary) and act
 A *View* acts as the user interface, containing only functions to print the results of the user's actions and no logic other than processing the user's input string.
 Lastly a *Controller* acts as the core logic system connecting the view (input) to the model (resulting action). Here, the model will then call upon the view to output the results of the action taken.
 
-![MVC diagram](800px-MVC-Process.svg.png)
+![MVC pattern diagram](MVCDemo/800px-MVC-Process.svg.png)
