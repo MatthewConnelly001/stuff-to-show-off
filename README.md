@@ -36,6 +36,20 @@ It is a small survival/tower defence game where you defend a 2D planet from aste
 ![Planet Defender gameplay](PlanetDefender/PDlevel1.png)
 ![Planet Defender gameplay](PlanetDefender/PDlevel36.png)
 
+## Bird With A Bomb
+
+This is a game I made for a game jam on itch.io. In it you must chase down a chicken carrying a large bomb running around your yard, and you must catch it and dispose of it before the 20 second timer runs out.
+
+![Bird With A Bomb gameplay](BirdWithABomb/2.png)
+![Bird With A Bomb gameplay](BirdWithABomb/3.png)
+
+## Quick Maths Dungeon
+
+This is a dungeon crawling game where you must type answers to simple maths problems to defeat enemies and progress to the next level. Each stage has tougher problems and more enemmies.
+
+My inspiration to make this was to improve my number pad typing skills, and to make calculations while under stress (of avoiding enemy attacks).
+
+
 ## Wave Function Collapse Algorithm
 
 An interesting concept for an algorithm to create randomly generated content. The algorithm requires a training input, to which it analyses patterns (usually a 3x3 grid) and prints output image that fits this pattern. 

@@ -9,22 +9,25 @@
   },
   "packageFolders": {
     "C:\\Users\\MattC\\.nuget\\packages\\": {},
+    "C:\\Users\\MattC\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MattC\\Documents\\GitHub\\stuff-to-show-off\\MVCDemo\\MVCDemo.csproj",
+      "projectUniqueName": "C:\\Users\\MattC\\Documents\\Dev\\_stuff-to-show-off\\MVCDemo\\MVCDemo.csproj",
       "projectName": "MVCDemo",
-      "projectPath": "C:\\Users\\MattC\\Documents\\GitHub\\stuff-to-show-off\\MVCDemo\\MVCDemo.csproj",
+      "projectPath": "C:\\Users\\MattC\\Documents\\Dev\\_stuff-to-show-off\\MVCDemo\\MVCDemo.csproj",
       "packagesPath": "C:\\Users\\MattC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MattC\\Documents\\GitHub\\stuff-to-show-off\\MVCDemo\\obj\\",
+      "outputPath": "C:\\Users\\MattC\\Documents\\Dev\\_stuff-to-show-off\\MVCDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Users\\MattC\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\MattC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MattC\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
